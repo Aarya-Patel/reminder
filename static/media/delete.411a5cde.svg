@@ -1,0 +1,6 @@
+ <svg mlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30px" height="30px" fill="none" stroke="rgba(244, 244, 244, 0.3)">
+    <path d="M5,10 L10,30 L20,30 L25,10 " />
+    <path d="M9,12 L13,27"/>
+    <path d="M3,5 L27,5" />
+    <path d="M 10 3 C 10 0 20 0 20 3" />
+</svg>
