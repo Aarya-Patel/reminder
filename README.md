@@ -2,6 +2,9 @@
 This is a Reminder App that allow you to keep track of current tasks. You can add, star and delete tasks. Dont worry about losing
 your changes, everything is stored locally.
 
+Click here to use it: https://aarya-patel.github.io/Reminder/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
