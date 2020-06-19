@@ -114,6 +114,8 @@ select {
   color: white;
   border-bottom: 2px solid var(--grey);
   display: inline-block;
+  -webkit-appearance: none;
+
   margin: 0em 1em;
   width: 50%;
   text-align: right;
