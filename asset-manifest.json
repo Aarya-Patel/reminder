@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Reminder/static/css/main.fdd6e3c1.chunk.css",
-    "main.js": "/Reminder/static/js/main.d7b04d99.chunk.js",
-    "main.js.map": "/Reminder/static/js/main.d7b04d99.chunk.js.map",
+    "main.css": "/Reminder/static/css/main.550a2388.chunk.css",
+    "main.js": "/Reminder/static/js/main.ddf3dd0c.chunk.js",
+    "main.js.map": "/Reminder/static/js/main.ddf3dd0c.chunk.js.map",
     "runtime-main.js": "/Reminder/static/js/runtime-main.ac23c751.js",
     "runtime-main.js.map": "/Reminder/static/js/runtime-main.ac23c751.js.map",
     "static/js/2.530fdd86.chunk.js": "/Reminder/static/js/2.530fdd86.chunk.js",
     "static/js/2.530fdd86.chunk.js.map": "/Reminder/static/js/2.530fdd86.chunk.js.map",
     "index.html": "/Reminder/index.html",
-    "precache-manifest.8a6160416f9cf8428436d91dddb92f93.js": "/Reminder/precache-manifest.8a6160416f9cf8428436d91dddb92f93.js",
+    "precache-manifest.ba0c3f40f34be682d95e6bb60246a825.js": "/Reminder/precache-manifest.ba0c3f40f34be682d95e6bb60246a825.js",
     "service-worker.js": "/Reminder/service-worker.js",
-    "static/css/main.fdd6e3c1.chunk.css.map": "/Reminder/static/css/main.fdd6e3c1.chunk.css.map",
+    "static/css/main.550a2388.chunk.css.map": "/Reminder/static/css/main.550a2388.chunk.css.map",
     "static/js/2.530fdd86.chunk.js.LICENSE.txt": "/Reminder/static/js/2.530fdd86.chunk.js.LICENSE.txt",
     "static/media/check.3e6bd45a.svg": "/Reminder/static/media/check.3e6bd45a.svg",
-    "static/media/complete.7d777571.svg": "/Reminder/static/media/complete.7d777571.svg",
-    "static/media/delete.411a5cde.svg": "/Reminder/static/media/delete.411a5cde.svg",
-    "static/media/star.5a835eb9.svg": "/Reminder/static/media/star.5a835eb9.svg",
+    "static/media/complete.30c891bc.svg": "/Reminder/static/media/complete.30c891bc.svg",
+    "static/media/delete.de7cb3c5.svg": "/Reminder/static/media/delete.de7cb3c5.svg",
+    "static/media/star.d1521ba4.svg": "/Reminder/static/media/star.d1521ba4.svg",
     "static/media/toggle.14f40330.svg": "/Reminder/static/media/toggle.14f40330.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac23c751.js",
     "static/js/2.530fdd86.chunk.js",
-    "static/css/main.fdd6e3c1.chunk.css",
-    "static/js/main.d7b04d99.chunk.js"
+    "static/css/main.550a2388.chunk.css",
+    "static/js/main.ddf3dd0c.chunk.js"
   ]
 }
