@@ -1,5 +1,6 @@
 # Reminder
-This is a Reminder App created with React that allow you to keep track of your current list of things to do!.
+This is a Reminder App created with React that allow you to keep track of your current list of things to do!
+Check it out here: https://aarya-patel.github.io/Reminder/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
